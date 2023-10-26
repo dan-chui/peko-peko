@@ -1,0 +1,19 @@
+{
+  "name": "peko-peko",
+  "version": "1.0.0",
+  "description": "Recipe app",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Dan Chui",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.1",
+    "parcel": "^2.10.1"
+  },
+  "dependencies": {
+    "sass": "^1.26.10"
+  }
+}
