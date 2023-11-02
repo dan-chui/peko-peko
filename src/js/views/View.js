@@ -27,7 +27,7 @@ export default class View {
     newElements.forEach((newEl, i) => {
       const curEl = curElements[i];
 
-      // Updates changed Text
+      // Updates changed TEXT
       if (
         !newEl.isEqualNode(curEl) &&
         newEl.firstChild?.nodeValue.trim() !== ''
