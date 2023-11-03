@@ -29,7 +29,7 @@
 113C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts133427944243153167 0
 122C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@parcel\runtime-js\src\helpers\browser\prefetch-loader.js133427944258634547 0
 115C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@parcel\runtime-js\src\helpers\worker\js-loader.js133427944258569427 0
-56C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist133433904174679060 1
+56C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist133433919696510785 1
 85C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\semver\bin\semver.js133427944241375712 0
 148C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\tokenizer\char-code-definitions.js133427944239297361 0
 98C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\es\string\virtual\trim.js133428675423558964 0
@@ -48,7 +48,7 @@
 81C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@swc\helpers\cjs133427944244473528 1
 107C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\modules\esnext.math.seeded-prng.js133428675404867982 0
 98C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\features\instance\push.js133428675417715337 0
-72C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\controller.js133433873027934618 0
+72C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\controller.js133433917898946373 0
 104C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@parcel\optimizer-htmlnano\package.json133427944266290154 0
 63C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\.prettierrc133207723526410250 0
 90C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\full\math\sign.js133428675419643997 0
@@ -95,7 +95,7 @@
 111C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\css-select\node_modules\domhandler\lib\node.js133427944271773930 0
 87C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\es\unescape.js133428675423948032 0
 88C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\es\math\sinh.js133428675419684046 0
-81C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\views\bookmarksView.js133433884518925963 0
+81C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\views\bookmarksView.js133433915516430348 0
 74C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\term-size133427944239059223 1
 104C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\css-tree\package.json133427944275136155 0
 101C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\stable\date\to-iso-string.js133428675421908015 0
@@ -178,7 +178,7 @@
 92C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\source-map-js\source-map.js133427944238804345 0
 115C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\css-tree\cjs\generator\index.cjs133427944271077674 0
 108C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\internals\engine-is-webos-webkit.js133428675401399247 0
-67C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\model.js133433903463016707 0
+67C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\model.js133433919696194567 0
 122C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest4.c133427944243859125 0
 97C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\modules\esnext.set.of.js133428675405267386 0
 101C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\cjs\replace\property\border.cjs133427944239341585 0
@@ -246,7 +246,7 @@
 103C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\modules\es.string.match-all.js133428675403193898 0
 84C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\posthtml\lib\api.js133427944238061140 0
 100C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\css-tree\lib\syntax\config\lexer.js133427944247841979 0
-79C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\views\resultsView.js133433880101914388 0
+79C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\js\views\resultsView.js133433905266804491 0
 93C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\cjs\restructure\prepare133427944241059450 1
 105C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\features\array\virtual\splice.js133428675420439130 0
 73C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\entities133427944240014655 1
@@ -280,7 +280,7 @@
 125C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133427944245725853 0
 119C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@swc\helpers\_\_class_static_private_field_destructure133427944248468485 1
 100C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\caniuse-lite\data\regions\alt-sa.js133427944240220616 0
-67C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.html133433884521566982 0
+67C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.html133433905269876563 0
 69C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\src\img\icons.svg133207723527504001 0
 83C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\lmdb\src\windows.c133427944244197958 0
 72C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js133428675424988982 1
@@ -300,7 +300,7 @@
 111C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\features\string\virtual\starts-with.js133428675420670889 0
 110C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\css-tree\cjs\utils\List.cjs133427944271265480 0
 95C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\semver\functions\prerelease.js133427944241019413 0
-74C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\logo.726d37a8.png133433884521070096 0
+74C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\logo.726d37a8.png133433905269321853 0
 76C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\ansi-styles133427944237335105 1
 97C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\proposals\set-methods.js133428675419330211 0
 81C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\msgpackr-extract133427944238146363 1
@@ -1902,7 +1902,7 @@
 86C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\readdirp\package.json133427946351793832 0
 96C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\stable\function\bind.js133428675398871727 0
 78C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\nth-check\lib133427944240389398 1
-74C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.e37f48ea.js133433904174639030 0
+74C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.e37f48ea.js133433919696470607 0
 87C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\react-refresh\babel.js133427944237497362 0
 93C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\css-tree\cjs\lexer\units.cjs133427944245590035 0
 100C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\actual\string\virtual\at.js133428675398077865 0
@@ -2266,7 +2266,7 @@
 97C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\nth-check\lib\esm\index.d.ts.map133427944239149014 0
 90C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\css-tree\lib\utils\url.js133427944249230066 0
 101C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@swc\helpers\_\_class_name_tdz_error133427944248032371 1
-75C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\icons.dfd7a6db.svg133433884521566982 0
+75C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\icons.dfd7a6db.svg133433905269876563 0
 130C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\css-select\node_modules\entities\lib\generated\encode-html.js.map133427944241430871 0
 91C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\nth-check\lib\esm\index.js133427944237197513 0
 111C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\css-tree\lib\walker\index.js133427944273889237 0
@@ -3597,7 +3597,7 @@
 101C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\stable\instance\match-all.js133428675415969173 0
 116C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\mdn-data\css\syntaxes.schema.json133427944268957375 0
 97C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\full\string\match-all.js133428675415949156 0
-75C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\icons.21bad73c.svg133433884521566982 0
+75C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\icons.21bad73c.svg133433905269876563 0
 113C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\mdn-data\css\units.schema.json133427944269012461 0
 104C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\mdn-data\api\index.js133427944268409832 0
 119C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\csso\node_modules\mdn-data\api\inheritance.schema.json133427944268797859 0
@@ -7146,7 +7146,7 @@
 89C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\es\math\acosh.js133428675396779497 0
 78C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@trysound\sax133427944237345118 1
 89C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\es\math\asinh.js133428675397733790 0
-78C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.e37f48ea.js.map133433904174669053 0
+78C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.e37f48ea.js.map133433919696500779 0
 96C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\@swc\helpers\_\_read_only_error133427944249711277 1
 89C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\es\math\atanh.js133428675398607936 0
 88C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\core-js\es\math\cbrt.js133428675399148363 0
@@ -9583,7 +9583,7 @@
 92C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\.bin\update-browserslist-db133427944316397179 0
 96C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\.bin\update-browserslist-db.cmd133427944316397179 0
 96C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\node_modules\.bin\update-browserslist-db.ps1133427944316397179 0
-77C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\favicon.c5ec8b79.ico133433884520759326 0
-75C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.f7626f62.css133433884520779431 0
-79C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.f7626f62.css.map133433884520819554 0
+77C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\favicon.c5ec8b79.ico133433905268981013 0
+75C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.f7626f62.css133433905269031057 0
+79C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\index.f7626f62.css.map133433905269056109 0
 82C:\Users\dchui\Desktop\Web Dev\Udemy - JS\Peko-Peko\dist\Peko-Peko.3464ddca.js.map133427960211217269 0
