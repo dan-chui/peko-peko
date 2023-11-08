@@ -9,8 +9,8 @@ Please visit (in a new tab): https://peko-peko-recipe.netlify.app/
 ## 🚀 Technologies
 
 - JavaScript
-- SASS
-- Parcel
+- Sass CSS
+- Parcel.js
 - Forkify API
 - Netlify
 
