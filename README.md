@@ -6,6 +6,8 @@
 
 Please visit (in a new tab): https://peko-peko-recipe.netlify.app/
 
+**(Note: Please turn off Ad/Cookie blockers to enable data fetching)**
+
 ## 🚀 Technologies
 
 - JavaScript
