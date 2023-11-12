@@ -2,7 +2,7 @@
 
 ## 💻 Project
 
-**Peko-Peko** is a powerful and user-friendly recipe that allows users to search for recipes, save their favorite recipes, and create personalized lists. It simplifies the process of finding and organizing recipes.
+**Peko-Peko** is a powerful and user-friendly recipe app that allows users to search for recipes, bookmark their favorite recipes, and create personalized lists. It simplifies the process of finding and organizing recipes.
 
 Please visit (in a new tab): https://peko-peko-recipe.netlify.app/
 
