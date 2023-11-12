@@ -12,6 +12,7 @@ Please visit (in a new tab): https://peko-peko-recipe.netlify.app/
 
 - JavaScript
 - Sass CSS
+- HTML
 - Parcel.js
 - Forkify API
 - Netlify
