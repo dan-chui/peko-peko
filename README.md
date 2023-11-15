@@ -19,7 +19,7 @@ Please visit (in a new tab): https://peko-peko-recipe.netlify.app/
 
 ## 💫 Features
 
-- **UI/UX**: Clean User interface and easy to use.
+- **UI/UX**: Clean User interface and easy to use. Stylized using Sass CSS.
 
 - **Responsive**: Accessible via PC (including extra-wide screens), tablet, and mobile phone.
   
